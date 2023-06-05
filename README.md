@@ -4,11 +4,8 @@
 - 🌱 Estudando Análises e desenvolvimento de sistemas
 - 😄 Pronouns: Ela/Dela
 
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Calliev&layout=compact&show_icons=true&theme=bear#gh-dark-mode-only)]
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Calliev&layout=compact&show_icons=true&theme=bear#gh-dark-mode-only)]<a href="https://github.com/Calliev">
  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Calliev&layout=compact&langs_count=7&theme=bear"/>
-<div align="center">
-  <a href="https://github.com/Calliev">
-</div>
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
