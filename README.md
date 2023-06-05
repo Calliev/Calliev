@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/Calliev">
-  [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Calliev&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+  (https://github-readme-stats.vercel.app/api?username=Calliev&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
     (https://github-readme-stats.vercel.app/api?username=Calliev&show_icons=true&bg_color=00000000)
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Calliev&layout=compact&langs_count=7&theme=bear"/>
 </div>
