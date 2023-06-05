@@ -5,7 +5,6 @@
 - 😄 Pronouns: Ela/Dela
 
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Landim013&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Landim013&show_icons=true&bg_color=00000000)
 
 
 
